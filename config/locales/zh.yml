@@ -1,0 +1,21 @@
+'zh-CN':
+  huizong: '贱事汇总'
+  shangfang: '上房'
+  xiahai: '下海'
+  jianta: '践踏'
+  zhengjiu: '拯救'
+  record_list: '贱事历史'
+  new_record: '添加贱事'
+  time:
+    formats:
+      default: "%Y-%m-%d"
+      short: "%b %d"
+      long: "%B %d, %Y"  
+  activerecord:
+    attributes:
+      record:
+        user: '贱友'
+        action: '贱事'
+        score: '贱分'
+        created_at: '日期'
+      
